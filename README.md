@@ -6,7 +6,7 @@
 + Dashboards: Tableau, Microsoft Power BI
 + A/B testing, hypothesis testing
 ## Examples of Work:
-|Project name and link|Description|...|
+|Project name and link|Description|Skills|
 |:---:|:----:|:----:|
 |[Gamedev A/B test](./gamedev_abtest)|Research which of the A/B groups showed itself better.|`Python`,  `A/B testing`, `Hypothesis testing`|
 |[Retail A/B test](./retail_abtest)|Research A/B test results in retail. |`Python`,  `A/B testing`, `Hypothesis testing`|
