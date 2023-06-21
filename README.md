@@ -8,8 +8,8 @@
 ## Examples of Work:
 |Project name and link|Description|...|
 |:---:|:----:|:----:|
-|[Gamedev A/B test](./gamedev_abtest)|To research which of the A/B group showed itself better.|`Python`,  `A/B testing`, `Hypothesis testing`|
-|[Retail A/B test](./retail_abtest)|To research A/B test result in retail. |`Python`,  `A/B testing`, `Hypothesis testing`|
+|[Gamedev A/B test](./gamedev_abtest)|Research which of the A/B groups showed itself better.|`Python`,  `A/B testing`, `Hypothesis testing`|
+|[Retail A/B test](./retail_abtest)|Research A/B test result in retail. |`Python`,  `A/B testing`, `Hypothesis testing`|
 |[Taxi](./taxi)|Predict the number of trips in the next hours in each area of New York.|`Python`,  `Time series analysis`|
 |[Unocorns](./Unicorns_dashboard)|Power BI dashboard - Unicorns|`Power BI`|
 |[Sales and customer analysis](./Sales)|Power BI dashboard - Sales and customer analysis|`Power BI`|
