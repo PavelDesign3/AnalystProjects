@@ -1,7 +1,7 @@
 # Data Analyst Projects
 ## Skills:
-+ Python, SQL
-+ Data analysis libraries: Pandas, NumPy, SciPy, Statsmodels
++ Python(pandas, numpy, scipy, statsmodels, matplotlib, seaborn)
++ SQL
 + Visualisation: Matplotlib, Seaborn
 + Dashboards: Tableau, Microsoft Power BI
 + A/B testing, hypothesis testing
